@@ -1,0 +1,17 @@
+h1 {
+    color: darkgreen;
+}
+h1, h2 {
+    font-family: georgia;
+    text-align: center;
+}
+p {
+    line-height: 25px;
+}
+img {
+    float: left;
+    margin: 10px;
+}
+a:hover {
+    text-decoration: underline;
+    }
