@@ -1,17 +1,13 @@
 h1 {
-    color: darkgreen;
+    color: blue;
 }
-h1, h2 {
-    font-family: georgia;
-    text-align: center;
+table {
+    border: black;
+    border-style: dashed;
 }
-p {
-    line-height: 25px;
+h2{
+    color: darkblue;
 }
-img {
-    float: left;
-    margin: 10px;
+h3 {
+    color: darkblue;
 }
-a:hover {
-    text-decoration: underline;
-    }
