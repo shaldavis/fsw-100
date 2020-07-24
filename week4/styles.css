@@ -1,0 +1,62 @@
+.nav-bar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: gray;
+}
+.Contact-Us {
+    position: relative;
+    /* left: 315px; */
+}
+.About {
+    position: relative;
+    /* left: 150px; */
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.fiji {
+    position: absolute;
+    float: left;
+    height: 200px;
+    top: 30px;
+}
+h2 {
+    position: relative;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+h6 {
+    position: relative;
+    margin-left: 300px;
+}
+p {
+    position: relative;
+   margin-left: 300px;
+   margin-right: 100px;
+}
+.Madagascar {
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-top: 200px;
+}
+.mada {
+    position: relative;
+    margin-top: 215px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+.bali {
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin-top: 200px;
+}
+.indo {
+    position: relative;
+    margin-top: 215px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
