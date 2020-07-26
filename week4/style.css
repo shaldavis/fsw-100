@@ -1,0 +1,80 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    background-color: lightblue;
+    height: 30px;
+    text-align: center;
+}
+.About {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.Contact {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+h1 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 525px;
+    text-decoration: underline;
+    color: red;
+}
+.family {
+    position: static;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 450px;
+}
+body {
+   font-family: 'Mulish', sans-serif; 
+}
+.middle {
+    position: relative;
+    text-align: center;
+}
+.middle, p {
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.middle, h2 {
+    margin-top: 100px;
+}
+ul {
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.Fam {
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.graph {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+table {
+    border: ridge;
+    margin-left: 520px;
+    margin-top: 40px;
+}
+.growth {
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.thanks {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.together{
+    height: 400px;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+h4 {
+    text-align: center;
+}
