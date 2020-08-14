@@ -1,0 +1,100 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+}
+.navbar {
+    display: flex;
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 99%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    background-color: cyan;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex-container {
+    display: flex;
+    background-color: darkcyan;
+    height: 90px;
+}
+#box1 {
+    background-color: rgb(15, 190, 190);
+    text-align: center;
+    border-radius: 10px;
+}
+#box1:hover {
+    background-color: cyan;
+    transition-duration: 1s;
+    
+}
+#box2 {
+    background-color: rgb(15, 190, 190);
+    text-align: center;
+    border-radius: 10px;
+}
+#box2:hover {
+    background-color: cyan;
+    transition-duration: 1s;
+}
+#box3 {
+    background-color: rgb(15, 190, 190);
+    text-align: center;
+    border-radius: 10px;
+}
+#box3:hover {
+    background-color: cyan;
+    transition-duration: 1s;
+}
+#box4 {
+    background-color: rgb(15, 190, 190);
+    text-align: center;
+    border-radius: 10px;
+}
+#box4:hover {
+    background-color: cyan;
+    transition-duration: 1s;
+}
+p {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+@media only screen and (min-width: 768px) {
+    .navbar {
+        margin-left: 150px;
+        width: 77.5%;
+    }
+    h1 {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    .flex-container {
+        flex-direction: column;
+        height: 300px;
+        margin-right: 150px;
+        margin-left: 150px;
+    }
+    #box1 {
+        height: 90px;
+        text-align: left;
+    }
+    #box2 {
+        height: 90px;
+        text-align: left;
+    }
+    #box3 {
+        height: 90px;
+        text-align: left;
+    }
+    #box4 {
+        height: 90px;
+        text-align: left;
+    }
+
+}
